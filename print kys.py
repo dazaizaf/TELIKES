@@ -1,2 +1,2 @@
 print kys
-print <kill me >
+print <kill me >    
